@@ -95,7 +95,7 @@ print <<"EOF";
       <TD colspan="2" bgcolor="#ffff99" width="696" height="23" align="left"><FONT style="font-size:15px" color="#666600">目前線上人員($player人)：$glist</FONT></TD>
     </TR>
     <TR>
-      <TD colspan="2" id="Layer1" valign=top><FONT style="font-size:15px" color="#666600"><b><系統公告></b><BR>$mapsys</FONT><BR><font color="#000000"><b><font size=1>[Total $count Hit]</font></b></TD>
+      <TD colspan="2" id="Layer1" valign=top><FONT style="font-size:15px" color="#666600"><b><系統公告></b><BR>$mapsys</FONT><BR><font color="#000000"><font size=1>[Total $count Hit]</font></TD>
     </TR>
     <TR>
       <TD colspan="2" id="Layer1" valign=top><FONT style="font-size:15px" color="#666600"><b><最新情報></b><BR>$mapl</FONT></TD>
